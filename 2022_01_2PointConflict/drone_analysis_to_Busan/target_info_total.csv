@@ -1,7 +1,0 @@
-﻿place,length,speed_limit,lane_num_ori,lane_num_added,,order,etc,
-02_1,236.7,100,4,,,2,Basic,
-02_2,230.7,100,4,,,1,Basic,
-02_3,100,100,3,,,3,B,
-02_4,195,100,3,,,4,B,차로별로 제한속도 차 줘야됨
-02_5,178.8,50,4,,,5,B and C,
-02_6,188,50,3,,,6,B and C,
