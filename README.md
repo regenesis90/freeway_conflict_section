@@ -25,3 +25,9 @@
   * 구간별/서비스 수준별 평균속도(SMS, 공간평균속도) 및 평균가속도, 속도와 가속도의 표준편차
   * 차로변경 횟수 및 속도, 가속도 산정
   * 과속, 급앞지르기, 급진로변경 횟수 산정
+## Laboratory Info
+**Traffic Engineering Lab., Yonsei University**
+* **Tel.** : +82-2-2123-7237
+* **Fax.** : +82-2-393-6298
+* **Location** : S306, Engineering hall 1, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul 03722, Republic of Korea
+* **Website** : [Dept. of Urban Planning & Engineering](https://urban.yonsei.ac.kr/urban/research/traffic_engineering_overview.do)
